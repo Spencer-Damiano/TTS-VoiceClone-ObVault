@@ -5,3 +5,4 @@
 - Created this to follow along with the course from [Valerio Velardo - The Sound of AI](https://youtu.be/MFrEYPdEn8?si=NoBBEMq03AGF7frG) YouTube playlist
 - There will be only code snippet in this repo with potential links to projects as this course isn't code base. I'm just doing this so in the long term I can begin working on these projects. 
 - These will be added to slowly as I'll take hand written notes and then condense them into markdown in here for permanence
+- Trying to get this set up took a lot of time that I wasn't expecting and multiple commits. I'm not trying to pad my GitHub commits just trying to organize my vault to look pretty ✨
