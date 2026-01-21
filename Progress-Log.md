@@ -1,6 +1,9 @@
 ## This shows the last things that I was learning and working on in my learning
 ---
 
+## Week 1 - Jan 19th 2026
+- Picking this up after moving and the holidays. Plan on being a lot more consistent and hope to have some better updates soon 
+
 ## Week 0 - Created Dec 6 2025
 - Created this to follow along with the course from [Valerio Velardo - The Sound of AI](https://youtu.be/MFrEYPdEn8?si=NoBBEMq03AGF7frG) YouTube playlist
 - There will be only code snippet in this repo with potential links to projects as this course isn't code base. I'm just doing this so in the long term I can begin working on these projects. 
