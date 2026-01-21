@@ -1,3 +1,16 @@
 # Video 1 - [link](https://www.youtube.com/watch?v=_MFrEYPdEn8)
 
-// need to add the notes I took from the video here. The real take away was adding this vault into my GitHub and deciding to publish my notes about this course
+## Thoughts/takeaways
+- Human Speech Pipeline
+		1. Thought
+		2. language
+		3. phonemes
+		4. articulation
+		5. sound waves
+- Robot/TTS
+		1. LLM
+		2. Text
+		3. Acoustic features
+		4. vocoder
+		5. waveforms
+- Speech is a planned 
